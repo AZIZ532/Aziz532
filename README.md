@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aziz532
+- 👋 Hi, I’m Abdul Aziz Khan
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, R, Tableau and Spreadsheet
 
