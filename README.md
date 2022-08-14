@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abdul Aziz Khan
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, R, Tableau and Spreadsheet
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning SQL, Python, Machine Learning, Power BI
+
 
 <!---
 Aziz532/Aziz532 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
