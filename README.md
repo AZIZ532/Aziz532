@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Data Science**
 
-- 📫 How to reach me **Khanabulaziz532@gmail.com**
+- 📫 How to reach me **Khanabdulaziz532@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
